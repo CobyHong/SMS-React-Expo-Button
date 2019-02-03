@@ -1,0 +1,1 @@
+Change directory to icon in App.js to match your thing.
